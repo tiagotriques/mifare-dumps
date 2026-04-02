@@ -6,3 +6,4 @@
 - Baqueta: also from João Rock
 - Parking Pass: Iguatemi São Carlos old parking card
 - Bus: BusFacil São Carlos (public transport)
+- Hotel Confiance: Hotel room card found in the trash (👀)
