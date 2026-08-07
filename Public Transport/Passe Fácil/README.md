@@ -1,3 +1,4 @@
+```
 [usb] pm3 --> hf mf info
 
 [=] --- ISO14443-a Information -----------------------------
@@ -19,3 +20,4 @@
 
 [=] --- PRNG Information
 [+] Prng....... weak
+```
