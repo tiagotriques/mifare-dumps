@@ -1,6 +1,6 @@
 # **( ͡° ͜ʖ ͡°) FOR EDUCATIONAL PURPOSES ONLY ( ͡° ͜ʖ ͡°)**
 
-## Dumps and pics from random NFC cards I had
+## Dumps and pics from random Mifare cards I had
 
 - João Rock Music festival:
   - Azul
