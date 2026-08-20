@@ -21,3 +21,5 @@
 [=] --- PRNG Information
 [+] Prng....... weak
 ```
+
+![](azul-front.jpg)
