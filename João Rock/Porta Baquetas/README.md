@@ -27,3 +27,5 @@
 [=] --- PRNG Information
 [+] Prng....... hard
 ```
+
+![](porta-baquetas-front.jpg)
