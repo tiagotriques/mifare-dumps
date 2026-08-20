@@ -23,3 +23,4 @@
 [#] Static nonce....... 01200145
 [+] Static nonce... yes
 ```
+![](hotel-confiance-front.jpg)
