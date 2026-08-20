@@ -21,3 +21,5 @@
 [=] --- PRNG Information
 [+] Prng....... weak
 ```
+
+![](passe-facil-front.jpg)
